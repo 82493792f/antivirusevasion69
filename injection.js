@@ -11,7 +11,7 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "deadly stealer",
 
     webhook: "REPLACE_ME",
 
